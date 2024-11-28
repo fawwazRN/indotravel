@@ -403,6 +403,9 @@ ul li a {
     font-size: 30px;
     cursor: pointer;
   }
+  .humburger i{
+    color: black;
+  }
 }
 @media screen and (max-width: 640px) {
   .judul h1 {
